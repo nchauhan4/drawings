@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T10:28:58.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6JCkalGVfPWdE9gZNX9s" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T10:29:37.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ajmzGXoOZgUkj18edg5k" version="21.1.5" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1764" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="boQCoTf2LVf0JerHzZlF-22" value="" style="shape=mxgraph.cisco.misc.page_icon;html=1;pointerEvents=1;dashed=0;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1172" y="319" width="78" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="boQCoTf2LVf0JerHzZlF-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Catalogue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1168" y="342" width="90" height="30" as="geometry" />
+        <mxCell id="boQCoTf2LVf0JerHzZlF-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Product&lt;br&gt;Catalogue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1168" y="330" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
