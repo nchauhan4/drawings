@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T12:30:44.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="usi91Pccnz837AuLyQnW" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T12:31:02.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="42RceEqBbNh8_aUCImgH" version="21.1.5" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1629" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -156,16 +156,6 @@
         </mxCell>
         <mxCell id="boQCoTf2LVf0JerHzZlF-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ML Predictions for dynamic pricing &lt;br&gt;and offers&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="939" y="460" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="boQCoTf2LVf0JerHzZlF-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="830" y="740" as="sourcePoint" />
-            <mxPoint x="880" y="690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="740" />
-              <mxPoint x="830" y="690" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="boQCoTf2LVf0JerHzZlF-83" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#FF0000;" edge="1" parent="1" source="boQCoTf2LVf0JerHzZlF-18" target="boQCoTf2LVf0JerHzZlF-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
