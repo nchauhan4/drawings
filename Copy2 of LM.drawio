@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T09:53:48.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zv_EsKw3JuE1JYUh-bA4" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:07:09.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Vf9WL72RAZDLlzpLsFDF" version="23.1.1" type="github">
   <diagram name="Page-1" id="imfpy0Pov8flkuBBiqmy">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,15 +112,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o5u9xkLmA_ON-qVbJsRd-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.633;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="293" as="sourcePoint" />
-            <mxPoint x="526.98" y="263.01" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="527" y="293" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="o5u9xkLmA_ON-qVbJsRd-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="716" y="89" as="sourcePoint" />
@@ -179,14 +170,36 @@
         <mxCell id="LD7KzVhKJJ03Kg_h9JVN-4" value="API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="197" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-7" value="Disc Fare&amp;nbsp; in Points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-7" value="Get Fares in Points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="498" y="67" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-8" value="Fare&amp;nbsp; in Cash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-8" value="Cash Fares" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="492" y="29" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LD7KzVhKJJ03Kg_h9JVN-9" value="Past Travel &amp;amp; Future Bookings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="534" y="266" width="60" height="30" as="geometry" />
+          <mxGeometry x="644" y="266" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-10" value="Fares in Cash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="568" y="218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="265" as="sourcePoint" />
+            <mxPoint x="500" y="268" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="295" />
+              <mxPoint x="500" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-12" value="Calc Disc fare using Static Disc Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="558" y="269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-13" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="sourcePoint" />
+            <mxPoint x="320" y="90" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
