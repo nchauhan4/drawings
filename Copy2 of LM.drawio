@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T06:38:47.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yTzlR5a5Gjwb1SUU_75-" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T09:53:48.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Zv_EsKw3JuE1JYUh-bA4" version="23.1.1" type="github">
   <diagram name="Page-1" id="imfpy0Pov8flkuBBiqmy">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nZtmwKzg-fRjrrjrNqXi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="nZtmwKzg-fRjrrjrNqXi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="474" y="118" width="90" height="142" as="geometry" />
         </mxCell>
         <mxCell id="v5AI_yrHXNZjAFn2bGB4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="o5u9xkLmA_ON-qVbJsRd-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464" y="73" as="sourcePoint" />
-            <mxPoint x="570" y="72" as="targetPoint" />
+            <mxPoint x="464" y="56" as="sourcePoint" />
+            <mxPoint x="570" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o5u9xkLmA_ON-qVbJsRd-63" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -160,7 +160,7 @@
             <mxPoint x="190" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nZtmwKzg-fRjrrjrNqXi-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nZtmwKzg-fRjrrjrNqXi-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="310" as="sourcePoint" />
             <mxPoint x="640" y="180" as="targetPoint" />
@@ -169,6 +169,24 @@
               <mxPoint x="640" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-1" value="Mobile App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="63" y="68" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-2" value="WebSite (Browser)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-4" value="API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="197" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-7" value="Disc Fare&amp;nbsp; in Points" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="498" y="67" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-8" value="Fare&amp;nbsp; in Cash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="492" y="29" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-9" value="Past Travel &amp;amp; Future Bookings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="534" y="266" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
