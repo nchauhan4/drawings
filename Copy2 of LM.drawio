@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T10:17:47.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WnM4_Fj_ad0eJDkjmL2P" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:20:56.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="m8Lz5aHNCGKebOq2GrWl" version="23.1.1" type="github">
   <diagram name="Page-1" id="imfpy0Pov8flkuBBiqmy">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="502.5" y="209" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="o5u9xkLmA_ON-qVbJsRd-50" value="RM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="719" y="70" width="50" height="91" as="geometry" />
+          <mxGeometry x="732" y="70" width="50" height="91" as="geometry" />
         </mxCell>
         <mxCell id="o5u9xkLmA_ON-qVbJsRd-53" value="Offer Engine&lt;br&gt;Services" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="489" y="254" width="60" height="30" as="geometry" />
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="LD7KzVhKJJ03Kg_h9JVN-12" value="Disc fare Calc using Static Disc Table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="558" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LD7KzVhKJJ03Kg_h9JVN-15" value="Seat factor, AU, Demand, Flights" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="669" y="128" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
