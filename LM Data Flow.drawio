@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T00:43:25.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3gkPndjkQttbQUSx1tgI" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T00:51:31.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aCsHNY9q_vLuWIfOtyS_" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="OwfiVeOAE6O_KrkkMr-Q">
-    <mxGraphModel dx="794" dy="454" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="454" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,11 +16,11 @@
         <mxCell id="SMNPBds_AobCi2813BHv-94" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7.2.2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="136" width="50" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="227" y="20" width="60" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="8" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="20" width="60" height="300" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="158.75" width="50" height="42.5" as="geometry" />
@@ -46,14 +46,14 @@
         <mxCell id="SMNPBds_AobCi2813BHv-45" value="i) Cash&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="150.5" y="151" width="58.5" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-48" value="IAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SMNPBds_AobCi2813BHv-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="102" as="sourcePoint" />
             <mxPoint x="200" y="52" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-48" value="IAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,17 +94,17 @@
         <mxCell id="SMNPBds_AobCi2813BHv-58" value="User provides O&amp;amp;D and date for search" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="132.5" y="233.5" width="58.5" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-59" value="LMS Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="20" width="99" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-60" value="Skyplus Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396" y="207" width="99" height="72" as="geometry" />
-        </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="297" y="224" as="sourcePoint" />
             <mxPoint x="385" y="224" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-59" value="LMS Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="20" width="99" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-60" value="Skyplus Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="207" width="99" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="327" y="213" width="20" height="20" as="geometry" />
@@ -114,9 +114,6 @@
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-64" value="getFlights And Fare in cash is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="307.75" y="176" width="58.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-65" value="Offer Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="207" width="88" height="72" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -131,14 +128,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-65" value="Offer Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="207" width="88" height="72" as="geometry" />
+        </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="397" y="169" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-68" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6.1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="169" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-70" value="1N API/Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="606" y="20" width="98" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-71" value="getFlights And Fare in cash of Navitaire is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="518.75" y="15.5" width="78.25" height="33" as="geometry" />
@@ -148,6 +145,9 @@
             <mxPoint x="293" y="52" as="sourcePoint" />
             <mxPoint x="381" y="52" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-70" value="1N API/Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="20" width="98" height="68" as="geometry" />
         </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-73" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="323" y="41" width="20" height="20" as="geometry" />
@@ -217,14 +217,250 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-102" value="RM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801" y="20" width="77" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="SMNPBds_AobCi2813BHv-103" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="781" y="49" as="sourcePoint" />
             <mxPoint x="721" y="48.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-102" value="RM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="801" y="20" width="77" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="SMNPBds_AobCi2813BHv-104" value="RM updates the Fares and Load Factor for all flights&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="726" y="55" width="58.5" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tfOoxKZsEUQnKDMy-ZZV" name="Page-2">
+    <mxGraphModel dx="1246" dy="454" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="629" y="198" as="sourcePoint" />
+            <mxPoint x="629" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="615" y="138" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7.2.2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="136" width="50" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="8" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="20" width="60" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.website_generic;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="86" y="158.75" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-7" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
+          <mxGeometry x="237" y="145.75" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="48" y="187.75" as="sourcePoint" />
+            <mxPoint x="78" y="188" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="108" y="152" as="sourcePoint" />
+            <mxPoint x="220" y="102" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="108" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-10" value="i) Cash&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="150.5" y="151" width="58.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KITQrD6vPzJ8feY6Z6vN-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="102" as="sourcePoint" />
+            <mxPoint x="200" y="52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-12" value="IAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="140" as="sourcePoint" />
+            <mxPoint x="140" y="139.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="168" y="131" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163" y="131" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="98" y="107" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93" y="107" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-18" value="User logs into SkyPlus/LMS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="100.5" width="58.5" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="107" y="199" as="sourcePoint" />
+            <mxPoint x="215" y="232" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="107" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="97" y="206" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="206" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-22" value="User provides O&amp;amp;D and date for search" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="233.5" width="58.5" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="224" as="sourcePoint" />
+            <mxPoint x="385" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-24" value="LMS Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="20" width="99" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-25" value="Skyplus Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="207" width="99" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="327" y="213" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;.5.1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="213" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-28" value="getFlights And Fare in cash is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="307.75" y="176" width="58.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="198" as="sourcePoint" />
+            <mxPoint x="594" y="55" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="143" />
+              <mxPoint x="517" y="143" />
+              <mxPoint x="517" y="110" />
+              <mxPoint x="517" y="55" />
+              <mxPoint x="550" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-30" value="Offer Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="207" width="88" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="397" y="169" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-32" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6.1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="169" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-33" value="getFlights And Fare in cash of Navitaire is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="518.75" y="15.5" width="78.25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="52" as="sourcePoint" />
+            <mxPoint x="381" y="52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-35" value="1N API/Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="606" y="20" width="98" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="323" y="41" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318" y="41" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-38" value="User&#39;s FQTV and Tier is picked" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="303.75" y="66" width="58.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594" y="77" as="sourcePoint" />
+            <mxPoint x="440" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="77" />
+              <mxPoint x="550" y="165" />
+              <mxPoint x="440" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="541" y="123" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;7.1&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="123" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-42" value="Flights and Cash Fare for the search are returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="462" y="163.5" width="78.25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="254" as="sourcePoint" />
+            <mxPoint x="588" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-44" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="243" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-45" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;6.2&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="243" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-46" value="getFlights And Fare in cash is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="571" y="162.5" width="58.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="295" y="263" as="sourcePoint" />
+            <mxPoint x="383" y="263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="325" y="252" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-49" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;.5.2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="252" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-50" value="getFlights And Fare in cash, Cash+miles&amp;nbsp; is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="307.75" y="276" width="58.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="668" y="198" as="sourcePoint" />
+            <mxPoint x="668" y="99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="668" y="176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="781" y="49" as="sourcePoint" />
+            <mxPoint x="721" y="48.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-53" value="RM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="801" y="20" width="77" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="KITQrD6vPzJ8feY6Z6vN-54" value="RM updates the Fares and Load Factor for all flights&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="726" y="55" width="58.5" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
