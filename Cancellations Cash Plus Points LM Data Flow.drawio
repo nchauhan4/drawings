@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T22:15:35.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="szyGNZCgHutXoj2nhSaD" version="23.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-14T22:54:28.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="b__88DTGnOsW_3oTaAGK" version="23.1.2" type="github" pages="2">
   <diagram name="Page-1" id="OwfiVeOAE6O_KrkkMr-Q">
     <mxGraphModel dx="794" dy="420" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,9 +141,9 @@
         <mxCell id="SMNPBds_AobCi2813BHv-88" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="301" y="373" as="sourcePoint" />
-            <mxPoint x="407" y="330" as="targetPoint" />
+            <mxPoint x="396" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="407" y="374" />
+              <mxPoint x="396" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -174,8 +174,8 @@
         <mxCell id="SMNPBds_AobCi2813BHv-102" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="801" y="68" width="35" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="SMNPBds_AobCi2813BHv-104" value="RM updates the Fares and forecasted Load Factor for all flights&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="731" y="103" width="58.5" height="33" as="geometry" />
+        <mxCell id="SMNPBds_AobCi2813BHv-104" value="share the refund transactions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="556.75" y="377.5" width="58.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="0PA8DL0PbdsnvtNAlWwM-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -311,19 +311,19 @@
         </mxCell>
         <mxCell id="0PA8DL0PbdsnvtNAlWwM-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="773" y="306" as="sourcePoint" />
-            <mxPoint x="685" y="306" as="targetPoint" />
+            <mxPoint x="191" y="466" as="sourcePoint" />
+            <mxPoint x="103" y="466" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="306" />
-              <mxPoint x="707" y="306" />
+              <mxPoint x="158" y="466" />
+              <mxPoint x="125" y="466" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0PA8DL0PbdsnvtNAlWwM-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="713" y="296" width="20" height="20" as="geometry" />
+          <mxGeometry x="131" y="456" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0PA8DL0PbdsnvtNAlWwM-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;13&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="708" y="296" width="30" height="20" as="geometry" />
+        <mxCell id="0PA8DL0PbdsnvtNAlWwM-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;19&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="126" y="456" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0PA8DL0PbdsnvtNAlWwM-42" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -362,8 +362,8 @@
         <mxCell id="59oDwtAQfjxM6hvadUJi-1" value="Assumptions:&lt;br&gt;1. Only the flights beyond a price point will qualify for Cash+Points.&lt;br&gt;2. The Cash+Points option will be available through Redeem flow as well.&lt;br&gt;3. The cash component on the Slider will increment by 10% value step&amp;nbsp; &amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="91" y="655" width="275.25" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="mPE1qaVlTOJG_pVsWpJ8-3" value="The flights and fare and discounted fare are returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="697.75" y="313" width="58.5" height="33" as="geometry" />
+        <mxCell id="mPE1qaVlTOJG_pVsWpJ8-3" value="Boooking cancellation confirmaion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="77" y="473" width="97.25" height="33" as="geometry" />
         </mxCell>
         <mxCell id="mPE1qaVlTOJG_pVsWpJ8-4" value="User future bookings are retrieved from session storage and shown" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="118.75" y="305" width="79.25" height="33" as="geometry" />
@@ -413,8 +413,8 @@
         <mxCell id="mPE1qaVlTOJG_pVsWpJ8-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;16&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="714" y="387" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mPE1qaVlTOJG_pVsWpJ8-14" value="get Updated fare value in cash+points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="707.75" y="403" width="58.5" height="38" as="geometry" />
+        <mxCell id="mPE1qaVlTOJG_pVsWpJ8-14" value="Async - Refund cash" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="468.5" y="366" width="58.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="mPE1qaVlTOJG_pVsWpJ8-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -453,21 +453,21 @@
         </mxCell>
         <mxCell id="Gt4goCBHLAexRyP_5FmJ-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="795" y="341" as="sourcePoint" />
-            <mxPoint x="685" y="462" as="targetPoint" />
+            <mxPoint x="462" y="440" as="sourcePoint" />
+            <mxPoint x="297" y="484" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="795" y="462" />
+              <mxPoint x="462" y="484" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gt4goCBHLAexRyP_5FmJ-2" value="Updated fare value of cash+points and applicable discount rule info is returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="683" y="459" width="143" height="25" as="geometry" />
+        <mxCell id="Gt4goCBHLAexRyP_5FmJ-2" value="Cancellation confirmation is sent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="303" y="483" width="143" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Gt4goCBHLAexRyP_5FmJ-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="730" y="446" width="20" height="20" as="geometry" />
+          <mxGeometry x="350" y="470" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Gt4goCBHLAexRyP_5FmJ-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;18&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="725" y="446" width="30" height="20" as="geometry" />
+          <mxGeometry x="345" y="470" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -506,10 +506,10 @@
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="456" y="325" as="sourcePoint" />
+            <mxPoint x="418" y="363" as="sourcePoint" />
             <mxPoint x="308" y="396" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="456" y="396" />
+              <mxPoint x="418" y="396" />
               <mxPoint x="407" y="396" />
             </Array>
           </mxGeometry>
@@ -521,26 +521,10 @@
           <mxGeometry x="370" y="384" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-22" value="Flight and complete cancellation charges and details is returned&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="330" y="399" width="127" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="zOfcuc4DC-uXZ8jPm337-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="115" y="465" as="sourcePoint" />
-            <mxPoint x="220" y="597" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="115" y="597" />
-              <mxPoint x="165" y="597" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="297" y="400" width="127" height="33" as="geometry" />
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-31" value="User goes ahead with cancellation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="116.88" y="425" width="86.25" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="zOfcuc4DC-uXZ8jPm337-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="135" y="587" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="zOfcuc4DC-uXZ8jPm337-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="587" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="146" y="409" width="20" height="20" as="geometry" />
@@ -550,10 +534,10 @@
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="301" y="442" as="sourcePoint" />
-            <mxPoint x="473" y="341" as="targetPoint" />
+            <mxPoint x="301" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="418" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="473" y="443" />
+              <mxPoint x="440" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -564,7 +548,71 @@
           <mxGeometry x="380" y="433" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zOfcuc4DC-uXZ8jPm337-39" value="Cancel&amp;nbsp; the booking and generate the Refunds" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="368" y="448.5" width="105" height="24.5" as="geometry" />
+          <mxGeometry x="291" y="433" width="105" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506" y="253" as="sourcePoint" />
+            <mxPoint x="638" y="143" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="253" />
+              <mxPoint x="638" y="253" />
+              <mxPoint x="638" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="541" y="243" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;16&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="243" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-43" value="async Cancel The booking" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="519.82" y="220.5" width="87.37" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="433" y="329" as="sourcePoint" />
+            <mxPoint x="462" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="433" y="395" />
+              <mxPoint x="462" y="396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="439" y="384" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-47" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;17&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="384" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="242" as="sourcePoint" />
+            <mxPoint x="455" y="143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-50" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;17.1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="445" y="165" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-51" value=".Credit the points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="458.5" y="178.75" width="25.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="330" as="sourcePoint" />
+            <mxPoint x="682" y="154" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="484" y="363" />
+              <mxPoint x="682" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="576" y="354" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zOfcuc4DC-uXZ8jPm337-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;20&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="571" y="354" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
