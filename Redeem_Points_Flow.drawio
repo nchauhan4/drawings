@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T10:08:57.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g0hY-jVGfuVermVACgSG" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T10:09:29.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MMezFS4abSR2lD8X-P4x" version="24.0.2" type="github" pages="2">
   <diagram name="Search and Results" id="EjSmjShiK06Z1aKPEQtG">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -581,7 +581,7 @@
           <mxGeometry x="402" y="184" width="45.12" height="60.25" as="geometry" />
         </mxCell>
         <mxCell id="kylc7ET0oT1-pVPNehpp-1" value="Two entries are created in 1N :&lt;span style=&quot;background-color: initial;&quot;&gt;i) for cash part&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ii) for points&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="471.5" y="39" width="108.5" height="40" as="geometry" />
+          <mxGeometry x="471.5" y="53" width="108.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
