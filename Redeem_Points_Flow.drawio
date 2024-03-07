@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T07:54:37.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="o9VM46wyLl4dDdlnixbH" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-07T07:56:13.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XgwsAI77Dl3fu3bWYOfd" version="24.0.2" type="github" pages="2">
   <diagram name="Search and Results" id="EjSmjShiK06Z1aKPEQtG">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHKOM5S_4V-dGVnU0B9f-8" value="Booking Search&lt;br&gt;i) Cash&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="NHKOM5S_4V-dGVnU0B9f-8" value="Booking Search&lt;br&gt;i) Cash&lt;br&gt;II) &lt;b&gt;Redeem&lt;/b&gt;&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="150.5" y="171" width="58.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="NHKOM5S_4V-dGVnU0B9f-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="NHKOM5S_4V-dGVnU0B9f-10" edge="1">
@@ -375,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w05_cwSDtQMUngxFDME1-7" value="Book&lt;br&gt;I) Redeem Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150.5" y="171" width="58.5" height="47" as="geometry" />
+          <mxGeometry x="140" y="171" width="69" height="47" as="geometry" />
         </mxCell>
         <mxCell id="w05_cwSDtQMUngxFDME1-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
