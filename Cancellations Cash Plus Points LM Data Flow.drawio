@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T09:49:12.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T-kylfahuTR_NfqC3nQ6" version="24.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:49:30.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UKmz0T7cTfcuWNmo4IoK" version="24.0.2" type="github" pages="2">
   <diagram name="RedeemPoints_CashPoints" id="OwfiVeOAE6O_KrkkMr-Q">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -332,9 +332,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yZESZKWZYeRqyRCKHFqY-7" value="Booking Search&lt;br&gt;i) Cash&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150.5" y="171" width="58.5" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="yZESZKWZYeRqyRCKHFqY-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="yZESZKWZYeRqyRCKHFqY-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="122" as="sourcePoint" />
@@ -343,9 +340,6 @@
         </mxCell>
         <mxCell id="yZESZKWZYeRqyRCKHFqY-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;IAM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yZESZKWZYeRqyRCKHFqY-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="168" y="151" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yZESZKWZYeRqyRCKHFqY-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="98" y="127" width="20" height="20" as="geometry" />
@@ -356,10 +350,10 @@
         <mxCell id="yZESZKWZYeRqyRCKHFqY-13" value="User logs into SkyPlus/LMS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="32.5" y="120.5" width="58.5" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="yZESZKWZYeRqyRCKHFqY-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="yZESZKWZYeRqyRCKHFqY-7">
+        <mxCell id="yZESZKWZYeRqyRCKHFqY-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="132" y="231" as="sourcePoint" />
-            <mxPoint x="215" y="252" as="targetPoint" />
+            <mxPoint x="209" y="218" as="targetPoint" />
             <Array as="points">
               <mxPoint x="132" y="252" />
               <mxPoint x="209" y="253" />
