@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T12:45:25.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="l8Bys-cGngftlw2NSh8O" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T12:56:23.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NG5o-ol1to26NoWxYb-X" version="24.0.2" type="github">
   <diagram name="Page-1" id="1tc7ANnhA-uWb-AWc_Al">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-7" value="Booking Search&lt;br&gt;i) &lt;b&gt;Cash&lt;/b&gt;&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-7" value="User enters OTP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="150.5" y="197" width="58.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_yCUKTqFKHQa1Ut5XUf5-9">
@@ -45,14 +45,14 @@
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="186" as="sourcePoint" />
-            <mxPoint x="140" y="185.75" as="targetPoint" />
+            <mxPoint x="140" y="185.75" as="sourcePoint" />
+            <mxPoint x="220" y="186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="168" y="177" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="163" y="177" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -98,12 +98,12 @@
           <mxGeometry x="397" y="66" width="103" height="68" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="329" y="134" width="20" height="20" as="geometry" />
+          <mxGeometry x="330" y="134" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="134" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-26" value="If the email Id /Mobile No is not in FIM, them FIM initiated a OTP send to users email id and mobile num" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-26" value="If the email Id /Mobile No is not in FIM, them FIM initiated a OTP send to users email id or mobile num" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="300" y="150" width="73.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-27" value="getFlights,Fare and SSR in cash is called" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="320" y="294" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-31" value="Check if email Id/Mobile no&amp;nbsp; exists against any user in FIM User DB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="409" y="179" width="109.25" height="18" as="geometry" />
+          <mxGeometry x="483" y="143" width="62" height="61" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -160,19 +160,19 @@
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="204" y="396" as="sourcePoint" />
-            <mxPoint x="121" y="336" as="targetPoint" />
+            <mxPoint x="204" y="491" as="sourcePoint" />
+            <mxPoint x="121" y="431" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="171" y="396" />
-              <mxPoint x="121" y="396" />
+              <mxPoint x="171" y="491" />
+              <mxPoint x="121" y="491" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="144" y="386" width="20" height="20" as="geometry" />
+          <mxGeometry x="144" y="481" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;9&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="139" y="386" width="30" height="20" as="geometry" />
+          <mxGeometry x="139" y="481" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -196,7 +196,7 @@
           <mxGeometry x="91" y="565" width="275.25" height="117" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-46" value="The flights and fare and discounted SSR charges and prospective points are returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="118" y="406" width="79.25" height="48" as="geometry" />
+          <mxGeometry x="118" y="501" width="79.25" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-47" value="Flights, Fare and disc prices for adds, prospective points are returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="290.38" y="340" width="109.25" height="18" as="geometry" />
@@ -206,15 +206,15 @@
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="398.63" y="241.75" as="sourcePoint" />
-            <mxPoint x="399" y="152" as="targetPoint" />
+            <mxPoint x="467.63" y="230.75" as="sourcePoint" />
+            <mxPoint x="468" y="141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="389" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="458" y="179" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-51" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="384" y="189" width="30" height="20" as="geometry" />
+          <mxGeometry x="453" y="178" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-52" value="Prospective Points for fares and addons earning are calculated" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="600.75" y="370" width="82.75" height="33" as="geometry" />
@@ -224,18 +224,54 @@
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="57" as="sourcePoint" />
-            <mxPoint x="302" y="57" as="targetPoint" />
+            <mxPoint x="390" y="67" as="sourcePoint" />
+            <mxPoint x="302" y="67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="332" y="49" width="20" height="20" as="geometry" />
+          <mxGeometry x="332" y="59" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4&#39;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="327" y="49" width="30" height="20" as="geometry" />
+          <mxGeometry x="327" y="59" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-62" value="If the email Id /Mobile No is found in FIM, then user is asked about&amp;nbsp; wanting to enroll in Loyalty program;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="298.5" y="64.5" width="87" height="55" as="geometry" />
+          <mxGeometry x="298.5" y="74.5" width="87" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="333" as="sourcePoint" />
+            <mxPoint x="211" y="354" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="128" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="155" y="341" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-66" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;7&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="341" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-67" value="User fills up the enrollment form" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="126.75" y="367.25" width="76.5" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-69" value="User is successfully validated" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="380" y="195" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="421" y="178" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_yCUKTqFKHQa1Ut5XUf5-71" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="178" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
