@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T05:17:52.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wNLIJhfethIehQtFONK6" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T05:31:22.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3kOHPXYBVKB3oHXIiW9z" version="24.0.4" type="github">
   <diagram name="Page-1" id="1tc7ANnhA-uWb-AWc_Al">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -211,10 +211,10 @@
         </mxCell>
         <mxCell id="_yCUKTqFKHQa1Ut5XUf5-80" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="270" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="sourcePoint" />
             <mxPoint x="510" y="110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="240" />
+              <mxPoint x="490" y="240" />
               <mxPoint x="550" y="240" />
               <mxPoint x="550" y="180" />
               <mxPoint x="550" y="110" />
@@ -283,7 +283,7 @@
         <mxCell id="CzKLxufBlsXF5EXRRTjd-1" value="After captcha and other validfations user OTP is enabled" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="305.63" y="344.75" width="62" height="45.25" as="geometry" />
         </mxCell>
-        <mxCell id="Ltt3Lr1vRM2zopsYEiLo-1" value="If the email Id /Mobile No is found in FIM, then user is asked to enter another email/mobile num to enroll in Loyalty program;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="Ltt3Lr1vRM2zopsYEiLo-1" value="If the email Id /Mobile No is found in FIM, then user is asked to enter another email/mobile num to enroll in Loyalty program;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="17" width="87" height="55" as="geometry" />
         </mxCell>
       </root>
