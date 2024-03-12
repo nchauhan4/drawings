@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T05:22:15.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ps_B-xl9EhsUrj1OzIdQ" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:41:22.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="C63dvgOX-Gv2_460SEJ7" version="24.0.4" type="github">
   <diagram name="Page-1" id="YwnLGY9dr9e0aqBFSEb4">
     <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -90,21 +90,21 @@
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="151" as="sourcePoint" />
-            <mxPoint x="299" y="151" as="targetPoint" />
+            <mxPoint x="413" y="150" as="sourcePoint" />
+            <mxPoint x="413" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;FIM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="75" width="103" height="68" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="330" y="143" width="20" height="20" as="geometry" />
+          <mxGeometry x="403" y="177" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="143" width="30" height="20" as="geometry" />
+          <mxGeometry x="397" y="177" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yhkt9zWP_jc9iKz7122I-26" value="If the email Id /Mobile No is not in FIM, them FIM initiated a OTP send to users email id or mobile num" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="300" y="159" width="73.25" height="60" as="geometry" />
+        <mxCell id="yhkt9zWP_jc9iKz7122I-26" value="User is ided as a Cobrand user and&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="179.25" width="50" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -190,21 +190,23 @@
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="149" as="sourcePoint" />
-            <mxPoint x="300" y="244" as="targetPoint" />
+            <mxPoint x="391" y="121" as="sourcePoint" />
+            <mxPoint x="301" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="244" />
+              <mxPoint x="381" y="121" />
+              <mxPoint x="350" y="121" />
+              <mxPoint x="351" y="241" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-49" value="User email pr mobile is successfully validated" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="380" y="198" width="38" height="40" as="geometry" />
+          <mxGeometry x="304.88" y="186" width="38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="421" y="189" width="20" height="20" as="geometry" />
+          <mxGeometry x="341" y="167" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="416" y="189" width="30" height="20" as="geometry" />
+          <mxGeometry x="336" y="167" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="459" y="194" width="20" height="20" as="geometry" />
@@ -219,10 +221,10 @@
           <mxGeometry x="131" y="185" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="167" width="20" height="20" as="geometry" />
+          <mxGeometry x="340" y="145" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="167" width="30" height="20" as="geometry" />
+          <mxGeometry x="335" y="145" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yhkt9zWP_jc9iKz7122I-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -295,8 +297,11 @@
         <mxCell id="yhkt9zWP_jc9iKz7122I-72" value="User profile is updated with FF#" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="527" y="9" width="62" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="yhkt9zWP_jc9iKz7122I-74" value="user is identified as cobrand user, the profile is fetched" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="481" y="152" width="62" height="61" as="geometry" />
+        <mxCell id="yhkt9zWP_jc9iKz7122I-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yhkt9zWP_jc9iKz7122I-74" target="yhkt9zWP_jc9iKz7122I-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhkt9zWP_jc9iKz7122I-74" value="Check email id/mobile exists" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="481" y="152" width="62" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
