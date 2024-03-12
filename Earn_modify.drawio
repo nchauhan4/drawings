@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:51:03.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Im3mUEHWLYnvRdR-3zzp" version="24.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:52:05.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oDe3QIomJvFpicFq0rQD" version="24.0.5" type="github" pages="2">
   <diagram name="Search" id="1Z8MlafSayp5u_gYESE6">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -247,9 +247,6 @@
             <mxPoint x="48" y="266.75" as="sourcePoint" />
             <mxPoint x="78" y="267" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UvW0mz0MAAxjkSJ2-FLB-6" value="Booking Search&lt;br&gt;i) &lt;b&gt;Cash&lt;/b&gt;&lt;br&gt;II) Redeem&lt;br&gt;iii) Cash+Points" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="150.5" y="230" width="58.5" height="47" as="geometry" />
         </mxCell>
         <mxCell id="UvW0mz0MAAxjkSJ2-FLB-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
