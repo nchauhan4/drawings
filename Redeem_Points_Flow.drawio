@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T12:47:31.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TI4jV-Up2LhbeEvRBVnJ" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-21T12:52:50.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oKl4Gw-MppWQzJdGHQ3U" version="24.0.7" type="github" pages="2">
   <diagram name="Search and Results" id="EjSmjShiK06Z1aKPEQtG">
     <mxGraphModel dx="940" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -469,7 +469,7 @@
         <mxCell id="w05_cwSDtQMUngxFDME1-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="519" y="360" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w05_cwSDtQMUngxFDME1-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;7&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w05_cwSDtQMUngxFDME1-33" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;23&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="514" y="360" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w05_cwSDtQMUngxFDME1-34" value="PNR, original price, disc price, seat factor and conversion factor is saved" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
@@ -488,11 +488,11 @@
         <mxCell id="w05_cwSDtQMUngxFDME1-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="325" y="296" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w05_cwSDtQMUngxFDME1-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;8.1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w05_cwSDtQMUngxFDME1-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;24.1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="296" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w05_cwSDtQMUngxFDME1-38" value="Iytineary with PNR is returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="310.75" y="313" width="58.5" height="33" as="geometry" />
+        <mxCell id="w05_cwSDtQMUngxFDME1-38" value="Itinerary with PNR is returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="309.75" y="318" width="58.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="w05_cwSDtQMUngxFDME1-39" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -507,10 +507,10 @@
         <mxCell id="w05_cwSDtQMUngxFDME1-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="144" y="312" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w05_cwSDtQMUngxFDME1-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;9&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="w05_cwSDtQMUngxFDME1-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;25&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="139" y="312" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="w05_cwSDtQMUngxFDME1-42" value="The flights and fare in points&amp;nbsp; returned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="w05_cwSDtQMUngxFDME1-42" value="Itinerary" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="129.75" y="329" width="58.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="IUlN5LjIvORy5t-scPod-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -584,7 +584,7 @@
         <mxCell id="WMAwAOBkDRYZOl5rqW0l-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="389" y="164" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WMAwAOBkDRYZOl5rqW0l-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;8.2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="WMAwAOBkDRYZOl5rqW0l-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;24.2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="384" y="164" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WMAwAOBkDRYZOl5rqW0l-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
