@@ -16,9 +16,6 @@
         <mxCell id="1jBT1yOzD8v8w3udIk85-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="138" y="30" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="1jBT1yOzD8v8w3udIk85-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" parent="1" vertex="1">
-          <mxGeometry x="152" y="44.74000000000001" width="36" height="42.26" as="geometry" />
-        </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" parent="1" vertex="1">
           <mxGeometry x="160" y="120.57999999999998" width="18" height="26.48" as="geometry" />
         </mxCell>
@@ -99,6 +96,9 @@
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-29" value="6E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="445.5" y="45.06" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1jBT1yOzD8v8w3udIk85-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" parent="1" vertex="1">
+          <mxGeometry x="152" y="44.74000000000001" width="36" height="42.26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
