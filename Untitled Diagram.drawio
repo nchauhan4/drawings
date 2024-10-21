@@ -118,6 +118,15 @@
         <mxCell id="tYmKVsdiR8426psMzBDn-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
           <mxGeometry x="444" y="71" width="12.61" height="13.8" as="geometry" />
         </mxCell>
+        <mxCell id="tYmKVsdiR8426psMzBDn-40" value="ALTEA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="66" y="29.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tYmKVsdiR8426psMzBDn-41" value="Processor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="121" y="111.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tYmKVsdiR8426psMzBDn-42" value="Data Store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="117.06" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
