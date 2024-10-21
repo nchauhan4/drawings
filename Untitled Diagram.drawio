@@ -253,6 +253,9 @@
         <mxCell id="oO3pdyuVyCU1k4rtCpnD-69" value="NEAR FUTURE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fillColor=none;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="388.06" width="97" height="18" as="geometry" />
         </mxCell>
+        <mxCell id="oO3pdyuVyCU1k4rtCpnD-70" value="PNL/ADL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="430.31" y="124" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
