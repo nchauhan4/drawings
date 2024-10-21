@@ -208,7 +208,7 @@
             <mxPoint x="527" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BXD6T_1uRKeesXthLEPj-55" value="ALTEA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+        <mxCell id="BXD6T_1uRKeesXthLEPj-55" value="1A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="176" y="186.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BXD6T_1uRKeesXthLEPj-56" value="Processor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
