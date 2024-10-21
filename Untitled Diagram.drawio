@@ -8,7 +8,7 @@
           <mxGeometry x="451" y="20" width="363" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="29.5" width="60" height="110" as="geometry" />
+          <mxGeometry x="563" y="29.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="28" y="20" width="422" height="130" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="160" y="204.71" width="15" height="28.58" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Windows10_Core_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="582" y="91" width="40" height="40" as="geometry" />
+          <mxGeometry x="575" y="91" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#E7157B;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cloudwatch_cross_account_observability;" vertex="1" parent="1">
           <mxGeometry x="386" y="300" width="40" height="40" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="297" y="103" width="56" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-18" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
-          <mxGeometry x="663" y="68" width="40" height="40" as="geometry" />
+          <mxGeometry x="661" y="68" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-23" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#050505;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-27" value="" style="fillColor=#c0f5a9;dashed=0;outlineConnect=0;strokeWidth=2;html=1;align=center;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.polling_consumer;" vertex="1" parent="1">
-          <mxGeometry x="580" y="41" width="40" height="36" as="geometry" />
+          <mxGeometry x="573" y="41" width="40" height="36" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="67.4" width="40" height="40" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/software-engineering-and-video-gaming/512/104_file_share_transfer_WLAN_shareit-128.png" vertex="1" parent="1">
-          <mxGeometry x="490" y="64" width="40" height="40" as="geometry" />
+          <mxGeometry x="481" y="64" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0F0F0F;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,18 +90,30 @@
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439" y="89" as="sourcePoint" />
-            <mxPoint x="473" y="89" as="targetPoint" />
+            <mxPoint x="437" y="89" as="sourcePoint" />
+            <mxPoint x="471" y="89" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="531" y="87" as="sourcePoint" />
-            <mxPoint x="565" y="87" as="targetPoint" />
+            <mxPoint x="524" y="87" as="sourcePoint" />
+            <mxPoint x="558" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-36" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.timeDelaySwitch;elSwitchState=on;" vertex="1" parent="1">
           <mxGeometry x="297" y="42" width="56" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="tYmKVsdiR8426psMzBDn-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="623" y="87" as="sourcePoint" />
+            <mxPoint x="657" y="87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tYmKVsdiR8426psMzBDn-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="704" y="87" as="sourcePoint" />
+            <mxPoint x="738" y="87" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
