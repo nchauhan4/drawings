@@ -37,7 +37,7 @@
         <mxCell id="1jBT1yOzD8v8w3udIk85-29" value="6E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="445.5" y="45.06" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ynRshE6p7bdk2yIAgoE8-2" value="" style="group;strokeColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ynRshE6p7bdk2yIAgoE8-2" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="152" y="36.06" width="283" height="115.94" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" parent="ynRshE6p7bdk2yIAgoE8-2" vertex="1">
