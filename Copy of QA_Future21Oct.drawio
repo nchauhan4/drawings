@@ -28,14 +28,14 @@
         <mxCell id="1jBT1yOzD8v8w3udIk85-25" value="API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="112.06" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1jBT1yOzD8v8w3udIk85-26" value="1N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="533.5" y="105.06" width="40" height="20" as="geometry" />
+        <mxCell id="1jBT1yOzD8v8w3udIk85-26" value="1N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fillColor=#D0D0D0;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="533.5" y="110.06" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#7EA6E0;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="438" y="40" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1jBT1yOzD8v8w3udIk85-29" value="6E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="445.5" y="45.06" width="40" height="20" as="geometry" />
+        <mxCell id="1jBT1yOzD8v8w3udIk85-29" value="6E" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fillColor=#D0D0D0;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445.5" y="45.06" width="40" height="18" as="geometry" />
         </mxCell>
         <mxCell id="ynRshE6p7bdk2yIAgoE8-2" value="" style="group;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="152" y="36.06" width="283" height="115.94" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="1jBT1yOzD8v8w3udIk85-24" value="Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="ynRshE6p7bdk2yIAgoE8-2" vertex="1">
           <mxGeometry x="206" y="80.94" width="34" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1jBT1yOzD8v8w3udIk85-27" value="QR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="ynRshE6p7bdk2yIAgoE8-2" vertex="1">
+        <mxCell id="1jBT1yOzD8v8w3udIk85-27" value="QR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="ynRshE6p7bdk2yIAgoE8-2" vertex="1">
           <mxGeometry x="78.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Reserved_Capacity_Groups.svg;" parent="ynRshE6p7bdk2yIAgoE8-2" vertex="1">
