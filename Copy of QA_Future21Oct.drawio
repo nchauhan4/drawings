@@ -74,10 +74,10 @@
           <mxGeometry x="231" y="121.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-23" value="Temp Data Store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="365" y="53" width="40" height="20" as="geometry" />
+          <mxGeometry x="354" y="49" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-24" value="Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="360" y="117" width="40" height="20" as="geometry" />
+          <mxGeometry x="358" y="117" width="34" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1jBT1yOzD8v8w3udIk85-25" value="API Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="446.5" y="112.06" width="40" height="20" as="geometry" />
