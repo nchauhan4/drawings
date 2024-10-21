@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tYmKVsdiR8426psMzBDn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="451" y="20" width="363" height="130" as="geometry" />
+          <mxGeometry x="451" y="20" width="349" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="563" y="29.5" width="60" height="110" as="geometry" />
@@ -96,8 +96,8 @@
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="524" y="87" as="sourcePoint" />
-            <mxPoint x="558" y="87" as="targetPoint" />
+            <mxPoint x="558" y="87" as="sourcePoint" />
+            <mxPoint x="524" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-36" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.timeDelaySwitch;elSwitchState=on;" vertex="1" parent="1">
@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="623" y="87" as="sourcePoint" />
-            <mxPoint x="657" y="87" as="targetPoint" />
+            <mxPoint x="626" y="87" as="sourcePoint" />
+            <mxPoint x="660" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tYmKVsdiR8426psMzBDn-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.265;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#050505;" edge="1" parent="1">
